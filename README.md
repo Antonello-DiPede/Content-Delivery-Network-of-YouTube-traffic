@@ -26,8 +26,8 @@ It applies **data pre-processing, regression, and clustering** techniques to est
 ```plaintext
 youtube-cdn-ml-analysis/
 │
-├── model.py       # Python script for ML and clustering analysis
-├── report.pdf     # Final written report (full documentation)
+├── MachineLearningProjectGroup30.py       # Python script for ML and clustering analysis
+├── MachineLearningProjectGroup30.pdf     # Final written report (full documentation)
 └── README.md      # Project overview
 ```
 ---
