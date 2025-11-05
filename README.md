@@ -2,9 +2,8 @@
 
 This repository contains a **Machine Learning model** and the corresponding **project report** analyzing YouTube’s Content Delivery Network (CDN) traffic.
 
-Developed by **Group 30 – Politecnico di Torino (2025)**  
-*Authors: Luca Cesta Incani, Alex Cugliari, Antonello Di Pede, Giuseppe Insalaco*
-
+*Authors: Antonello Di Pede, Alex Cugliari, Giuseppe Insalaco*
+Politecnico Di Torino
 ---
 
 ## 🧠 Overview
@@ -23,3 +22,20 @@ It applies **data pre-processing, regression, and clustering** techniques to est
 ---
 
 ## 📂 Repository Structure
+youtube-cdn-ml-analysis/
+│
+├── model.py # Python script for ML and clustering analysis
+├── report.pdf # Final written report (full documentation)
+└── README.md
+
+yaml
+Copia codice
+
+---
+
+## 📈 Key Insights
+- Linear and Lasso regression achieved **R² ≈ 0.99**  
+- K-Means detected **5 main CDN clusters**  
+- Cluster evolution analysis revealed **structural changes after Week 3**
+
+---
