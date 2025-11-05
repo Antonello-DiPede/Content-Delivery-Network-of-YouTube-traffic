@@ -2,8 +2,8 @@
 
 This repository contains a **Machine Learning model** and the corresponding **project report** analyzing YouTube’s Content Delivery Network (CDN) traffic.
 
-*Authors: Antonello Di Pede, Alex Cugliari, Giuseppe Insalaco*
-Politecnico Di Torino
+*Authors: Antonello Di Pede, Alex Cugliari, Giuseppe Insalaco, Cesta Luca Incani*
+
 ---
 
 ## 🧠 Overview
