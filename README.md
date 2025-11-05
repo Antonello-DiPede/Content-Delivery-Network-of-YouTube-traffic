@@ -31,7 +31,6 @@ youtube-cdn-ml-analysis/
 └── README.md      # Project overview
 ```
 ---
-```plaintext
 ## 📈 Key Insights
 - Linear and Lasso regression achieved **R² ≈ 0.99**  
 - K-Means detected **5 main CDN clusters**  
